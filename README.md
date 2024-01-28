@@ -1,6 +1,9 @@
 Presentator v2 REST API JS client
 ======================================================================
 
+> [!IMPORTANT]
+> This repo is for the older Presentator v2 and it is no longer maintained.
+
 Simple and compact (~7kb gzip) JavaScript client (browser and node.js) for the Presentator v2 REST API (based on [axios](https://github.com/axios/axios) HTTP client).
 
 - [Installing](#installing)
